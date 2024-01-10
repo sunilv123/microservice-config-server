@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: USER-CONFIG-SERVER
-
 
 custom:
   name: TESTING-VALUE-FROM-CONFIG-SERVER
